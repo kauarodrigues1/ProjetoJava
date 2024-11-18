@@ -1,9 +1,11 @@
 public class PrimeiroPrograma {
 
     public static void main(String[] args) {
-        // armazenar propriedades e variaveis
-        System.out.println(("Hello world"));
-        System.out.println((200 / 2));
+        String name = "Kauã";
+        System.out.println(name);
+
+        final int myNum = 15;
+        System.out.println(myNum);
     }
 
 }
